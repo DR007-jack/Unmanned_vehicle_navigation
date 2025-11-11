@@ -1,0 +1,2 @@
+unitree_lidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/amov/Desktop/Unmanned_vehicle_navigation/Unmanned_vehicle_navigation/sdk/unilidar_sdk2-main/unitree_lidar_ros/devel -DCMAKE_INSTALL_PREFIX=/home/amov/Desktop/Unmanned_vehicle_navigation/Unmanned_vehicle_navigation/sdk/unilidar_sdk2-main/unitree_lidar_ros/install -G Unix Makefiles

@@ -1,0 +1,2 @@
+point_lio_unilidar-main
+-DCATKIN_DEVEL_PREFIX=/home/amov/Desktop/Unmanned_vehicle_navigation/Unmanned_vehicle_navigation/point_lio_l2/devel -DCMAKE_INSTALL_PREFIX=/home/amov/Desktop/Unmanned_vehicle_navigation/Unmanned_vehicle_navigation/point_lio_l2/install -G Unix Makefiles
